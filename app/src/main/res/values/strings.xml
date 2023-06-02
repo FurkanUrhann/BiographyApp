@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ödev-3</string>
+    <string name="Hakkımda">Merhabalar, ben Furkan Urhan 16 Ekim 1998 Şanlıurfa doğumluyum.Şuan Afyonkarahisarda ailem ile yaşıyorum. Babam sınıf öğretmeni annem ise emekli. 2022 yılında Artvin Çoruh Üniversitesi Tarih bölümünden mezun oldum.Mezun olduktan sonra yazılım alanı ilgimi çekmeye başladı ve kendimi bu alanda geliştirmeye başladım. İnternet üzerinden eğitimler almaya başladım ve ardından Turkcelle ait Geleceği Yazanlar programına başvurdum ve burada eğitim almaya hak kazandım. Şuan eğitimime burada devam ediyorum.</string>
+    <string name="Hakkımda_Title">Hakkımda</string>
+</resources>
