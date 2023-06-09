@@ -1,5 +1,28 @@
 # BiographyApp
-Bu örnek projode, Glade ve Webview yapılarını kullanarak  bir  biyografi uygulaması yaptım. 
+Bu örnek projode, Glade ve Webview yapılarını kullanarak kendi hakkımda bilgiler paylaştığım bir   uygulama yaptım. 
+## Kütüphaneler ve Özellikler
+<ul>
+  <li>Glade</li>
+  <li>Webview</li>
+  
+</ul>
+
+
+## İçindekiler
+
+|    Uygulama İçindeki Sayfalar       |
+|-----------|
+| Anasayfa   |
+| Hakkımda   |
+| Galeri     |
+| İletişim   |
+| Blog Yazar |
+
+
+
+
+
+
 ## Ekran Görüntüleri
 
 <div>
