@@ -42,5 +42,9 @@ Bu örnek projode, Glade ve Webview yapılarını kullanarak kendi hakkımda bil
 </div>
 
 
-https://github.com/FurkanUrhann/BiographyApp/assets/130754219/df609e2b-3bc1-4d04-a35d-1abde2174b84
+
+
+https://github.com/FurkanUrhann/BiographyApp/assets/130754219/155fc16c-231e-4a77-8583-b209d56ec324
+
+
 
